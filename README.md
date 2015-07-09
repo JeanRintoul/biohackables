@@ -1,0 +1,2 @@
+# biohackables
+biohackables is an instructables for biology. It includes neuroscience as well as molecular and synthetic biology and lab automation tools that democratize science. Increasing visibility of these tools allows people to freely hack, share and learn. Imagine a central repository where people can share common experiments or techniques as well as cheaper scientific tools. Gaining users is the goal and it's a not for profit. 
